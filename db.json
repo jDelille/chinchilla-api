@@ -1,0 +1,30 @@
+{
+ "chinchillas": [
+  {
+   "id": 0,
+   "species": "Long-tailed chinchilla",
+   "lifespan": "10 years (wild); 20 years (domestic)",
+   "endangered_status": "Endangered",
+   "scientific_name": "Chinchilla lanigera",
+   "habitat": [
+    {
+     "location": "Northern Chile",
+     "elevation": "3,000 to 5,000 m"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "species": "Short-tailed chinchilla",
+   "lifespan": "10 years (wild); 20 years (domestic)",
+   "endangered_status": "Endangered",
+   "scientific_name": "Chinchilla lanigera",
+   "habitat": [
+    {
+     "location": " Andes of Chile",
+     "elevation": "3,000 to 5,000 m"
+    }
+   ]
+  }
+ ]
+}
